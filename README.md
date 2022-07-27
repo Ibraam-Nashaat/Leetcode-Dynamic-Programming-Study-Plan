@@ -50,3 +50,6 @@
 ### Day 15:
 - [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+### Day 16:
+- [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+- [221. Maximal Square](https://leetcode.com/problems/maximal-square/)
