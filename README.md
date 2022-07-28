@@ -53,3 +53,6 @@
 ### Day 16:
 - [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 - [221. Maximal Square](https://leetcode.com/problems/maximal-square/)
+### Day 17:
+- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
