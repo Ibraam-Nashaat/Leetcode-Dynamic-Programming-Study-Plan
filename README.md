@@ -56,3 +56,10 @@
 ### Day 17:
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+### Day 18:
+- [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
+### Day 19:
+- [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [72. Edit Distance](https://leetcode.com/problems/edit-distance/)
