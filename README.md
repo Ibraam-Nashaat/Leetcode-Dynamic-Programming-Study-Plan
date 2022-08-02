@@ -63,3 +63,11 @@
 - [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [72. Edit Distance](https://leetcode.com/problems/edit-distance/)
+### Day 20:
+- [322. Coin Change](https://leetcode.com/problems/coin-change/)
+- [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/)
+### Day 21:
+- [343. Integer Break](https://leetcode.com/problems/integer-break/)
+- [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+- [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+
